@@ -1,9 +1,6 @@
-Todo Table
+YList
 ==========
 
-This is an Xcode project that illustrates a simple example of using `PFQueryTableViewController` with Parse. It's a dead simple way of getting a table to show data from a Parse class.
-
-View the [screencast here on Youtube](http://www.youtube.com/watch?v=4SKugJO74BA).
 
 How to Run
 ----------
